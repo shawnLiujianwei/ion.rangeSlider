@@ -17,7 +17,7 @@
     "main": [
         "js/ion.rangeSlider.js",
         "css/ion.rangeSlider.css",
-        "css/ion.rangeSlider.skinFlat.css",
+        "css/ion.rangeSlider.skinHTML5.css",
         "img/sprite-skin-flat.png"
     ],
     "dependencies": {
